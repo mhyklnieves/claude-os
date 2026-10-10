@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.local
+
+# API Keys & Secrets
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temp files
+*.tmp
+*.log
+
+# Outputs (optional - keep if you want to version control results)
+# outputs/
